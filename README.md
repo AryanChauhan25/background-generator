@@ -1,3 +1,3 @@
 This is a background generator.
-You can genrate very cool bacgrounds using this repository.
+You can genrate very cool backgrounds using this repository.
 Thank you..
